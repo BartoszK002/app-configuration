@@ -1,5 +1,5 @@
 build:
-  id: 101
-  version: 1.2.3
-  name: "Dev-GIT-Build"
-  type: "Development GIT Build"
+  id: 100
+  version: 1.0.0
+  name: "Default-GIT-Build"
+  type: "Default GIT Build"
